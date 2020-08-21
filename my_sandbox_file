@@ -6,14 +6,3 @@
      <dd>Term definition</dd>
   </dl>
 </body>
-lntarray = ["We", "are", "Siamese", "if", "you", "pleeease"]
-
-def output_array_elements(array)
-counter = 0
-    until counter == 5 do 
-    puts array[counter]
-    counter += 1
-  end
-end
-
-output_array_elements(lntarray)
